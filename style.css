@@ -1,0 +1,15 @@
+*{padding: 0;margin: 0;box-sizing: border-box}
+
+body{background-color: sandybrown;}
+
+.btnone{color: blue; text-align: center;font-size: 2cm;}
+
+h3{text-align: center;font-size: 30px;}
+
+.btntwo{text-transform: uppercase;}
+
+p{font-size: 20px;}
+
+h2{text-align: center;}
+
+strong{font-size: 40px;}
